@@ -1,2 +1,2 @@
 # argo
-This repository contains code for argoCD project going forward
+This repository contains code for argoCD projects going forward!
